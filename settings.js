@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
+  OWNER_NUMBER: "254787371970",
+  SUDO_NUMBERS : "254754783972",
+  OWNER_NAME: "『 𝚃𝚈𝙻𝙾𝚁 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -31,7 +31,7 @@ module.exports = {
         GOODBYE_MESSAGE : false
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Asia/Colombo",
+  TIME_ZONE :  "Africa/Nairobi",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
@@ -48,8 +48,8 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
-     ONLY_COMMANDS : false,
+     ALL_MESSAGES : false,
+     ONLY_COMMANDS : true,
      STATUS : false,
   },
   BOT_OFFLINE : false,
